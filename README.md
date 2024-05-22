@@ -3,7 +3,7 @@
 Excited to share my first ML project on this Weather_in_Australia data set using KNeighborsClassifier,Naive_Bayes,Support Vector Machine Algorithms.
 
 Content:
-Project-Weather_in_Australia Predict next-day rain by training classification models(K-NEAREST NEIGHBOR,NAIVE BAYES,SUPPORT VECTOR MACHINE) on the target variable Rain Tomorrow.
+Project-Weather_in_Australia Predict next-day rain by training classification models(K-Nearest Neighbor,Naive_Bayes,Support Vector Machine) on the target variable Rain Tomorrow.
 
 Steps implimented:-
 1-Import necessary libraries
